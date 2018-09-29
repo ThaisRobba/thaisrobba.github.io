@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Sou programadora, com ampla experiência na área de jogos mobile e web. Antes disso eu era designer e ilustradora.
