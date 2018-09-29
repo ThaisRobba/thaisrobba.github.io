@@ -1,6 +1,6 @@
 # Site settings
-title: "TextLog"
-description: "Minimalist Jekyll theme for documentation site"
+title: "Margem da Margem"
+description: "Filosofia, ética, arte e engenharia de software por uma mina"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
 author: "Thaís Robba"
