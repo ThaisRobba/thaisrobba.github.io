@@ -89,7 +89,7 @@ A disparidade de custos obriga muitos lugares a cortarem tarefas antes considera
 
 # O engenho da destruição
 
-O combate da pós-verdade é complexo pois ele demanda das pessoas cabeças frias, capacidade de superar opiniões passadas e aceitar novas ideias. Essa exigência de racionalidade mesclada com empatia não só é difícil de se encontrar como é difícil de se manter.
+O combate da pós-verdade é complexo pois ele demanda das pessoas cabeças frias, capacidade de superar opiniões passadas, aceitar novas ideias e compreender o outro. Essa exigência de racionalidade mesclada com empatia não só é difícil de se encontrar como é difícil de se manter.
 
 O que vemos nas urnas, nas escolas, nas ruas e em muitas famílias do Brasil é o oposto disso. As pessoas estufam o peito com orgulho de sua ignorância política, tomam posições radicais sem olhar para os dados ou para o outro pois acham que isso sim vai mudar o mundo.
 
