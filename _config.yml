@@ -1,6 +1,6 @@
 # Site settings
 title: "Margem da Margem"
-description: "Interesecções de filosofia, ética, arte e engenharia de software"
+description: "Intersecções de filosofia, ética, arte e engenharia de software"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
 author: "Thaís Robba"
