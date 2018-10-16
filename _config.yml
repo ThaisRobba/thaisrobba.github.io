@@ -1,6 +1,6 @@
 # Site settings
 title: "Margem da Margem"
-description: "Filosofia, ética, arte e engenharia de software por uma mina"
+description: "Interesecções de filosofia, ética, arte e engenharia de software"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
 author: "Thaís Robba"
@@ -12,8 +12,8 @@ permalink: pretty
 
 # Third-party services
 # just leave empty to disable it
-google_analytics:
-disqus_shortname:
+? google_analytics
+? disqus_shortname
 
 plugins:
   - jekyll-sitemap
