@@ -99,10 +99,10 @@ Mas vamos perder nossa história, nossa cultura, nosso valor e onde antes haviam
 
 ---
 
-1. Facebook sobre os anúncios russos que desestabilizaram as eleições americanas: <a name="1">https://newsroom.fb.com/news/2017/09/information-operations-update/</a>
-2. Terrorista ameaça jornalistas após Trump atacar a mídia: <a name="2">https://www.huffpostbrasil.com/entry/donald-trump-indiana-rally-media-attacks_us_5b8855d8e4b0cf7b0033af91</a>
-3. Propaganda da ditadura de 1964: <a name="3">https://pt.wikipedia.org/wiki/Propagandas_do_regime_militar_de_1964</a>
-4. Anúncios que levam em conta comportamentos são mais rentáveis: <a name="4">https://www.marketingprofs.com/charts/2010/3508/behaviorally-targeted-ads-more-valuable-effective</a>
-5. Twitter perderia 2 bilhões se removesse Trump de sua plataforma: <a name="5">https://nypost.com/2017/08/18/twitter-makes-a-ton-of-money-off-trumps-tweetstorms/</a>
-6. Artigo descrevendo como é fácil espalhar Fake News via anúncios pagos: <a name="6">https://medium.com/the-mission/data-the-cost-of-influencing-an-election-through-fake-news-and-facebook-ads-is-surprisingly-cheap-9ecbf0f145c8</a>
-7. Especialistas de ciber segurança opinam sobre terrorismo financiado por estados: <a name="7">https://www.cso.com.au/article/617077/espionage-expert-offers-five-viewpoints-state-sponsored-hacking/</a>
+1. <a name="1" href="https://newsroom.fb.com/news/2017/09/information-operations-update/">Facebook sobre os anúncios russos que desestabilizaram as eleições americanas</a>
+2. <a name="2" href="https://www.huffpostbrasil.com/entry/donald-trump-indiana-rally-media-attacks_us_5b8855d8e4b0cf7b0033af91">Terrorista ameaça jornalistas após Trump atacar a mídia</a>
+3. <a name="3" href="https://pt.wikipedia.org/wiki/Propagandas_do_regime_militar_de_1964">Propaganda da ditadura de 1964</a>
+4. <a name="4" href="https://www.marketingprofs.com/charts/2010/3508/behaviorally-targeted-ads-more-valuable-effective">Anúncios que levam em conta comportamentos são mais rentáveis</a>
+5. <a name="5" href="https://nypost.com/2017/08/18/twitter-makes-a-ton-of-money-off-trumps-tweetstorms/" >Twitter perderia 2 bilhões se removesse Trump de sua plataforma</a>
+6. <a name="6" href="https://medium.com/the-mission/data-the-cost-of-influencing-an-election-through-fake-news-and-facebook-ads-is-surprisingly-cheap-9ecbf0f145c8">Artigo descrevendo como é fácil espalhar Fake News via anúncios pagos</a>
+7. <a name="7" href="https://www.cso.com.au/article/617077/espionage-expert-offers-five-viewpoints-state-sponsored-hacking/">Especialistas de ciber segurança opinam sobre terrorismo financiado por estados</a>
