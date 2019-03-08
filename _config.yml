@@ -12,7 +12,7 @@ permalink: pretty
 
 # Editor settings
 prose:
-	media: "assets"
+  media: "assets"
   
 # Third-party services
 # just leave empty to disable it
