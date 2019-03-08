@@ -4,13 +4,16 @@ description: "Intersecções de filosofia, ética, arte e engenharia de software
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
 author: "Thaís Robba"
-media: "assets"
 
 # Build settings
 kramdown:
   input: GFM
 permalink: pretty
 
+# Editor settings
+prose:
+	media: "assets"
+  
 # Third-party services
 # just leave empty to disable it
 ? google_analytics
